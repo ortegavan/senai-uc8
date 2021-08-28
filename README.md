@@ -6,8 +6,8 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/ortegavan/senai-versoes-colaboracoes/commits/main/README.md">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-versoes-colaboracoes?style=flat-square">
+    <a href="https://github.com/ortegavan/senai-uc8/commits/">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-uc8?style=flat-square">
     </a>
     <a href="https://github.com/prettier">
         <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
